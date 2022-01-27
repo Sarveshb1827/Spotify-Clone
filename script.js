@@ -13,12 +13,12 @@ let songs = [
     {songName: "Humraah", filePath: "songs/1.mp3", coverPath: "10.jpg"},
     {songName: "Faded", filePath: "songs/2.mp3", coverPath: "9.jpg"},
     {songName: "Jab Tak", filePath: "songs/3.mp3", coverPath: "8.jpg"},
-    {songName: "Billian_Billian", filePath: "songs/4.mp3", coverPath: "7.jpg"},
+    {songName: "Billian", filePath: "songs/4.mp3", coverPath: "7.jpg"},
     {songName: "Hamdard", filePath: "songs/5.mp3", coverPath: "6.jpg"},
-    {songName: "Hua_Hain_Aaj_Pehli_Baar", filePath: "songs/2.mp3", coverPath: "5.jpg"},
-    {songName: "Ishare_Tere_Karti_Nigah", filePath: "songs/2.mp3", coverPath: "4.jpg"},
-    {songName: "JAANI_TERA_NAA", filePath: "songs/2.mp3", coverPath: "3.jpg"},
-    {songName: "Jay-Jaykara_Baahubali_2", filePath: "songs/2.mp3", coverPath: "2.jpg"},
+    {songName: "HuaHainAaj", filePath: "songs/2.mp3", coverPath: "5.jpg"},
+    {songName: "IshareTereKarti", filePath: "songs/2.mp3", coverPath: "4.jpg"},
+    {songName: "JAANITERA", filePath: "songs/2.mp3", coverPath: "3.jpg"},
+    {songName: "JayJaykara", filePath: "songs/2.mp3", coverPath: "2.jpg"},
     {songName: "Lehanga", filePath: "songs/4.mp3", coverPath: "1.jpg"},
 ]
 
