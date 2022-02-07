@@ -128,9 +128,4 @@ nav ul li{
      }
   }
   
-  @media screen and (min-width: 800px) {
-    .bottom{
-      background-color: lavender;
-    }
  
-  }
