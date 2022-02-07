@@ -116,3 +116,21 @@ nav ul li{
     transition: opacity 0.4s ease-in;
 }
 
+@media screen and (max-width: 600px) {
+  
+   
+            .icons{
+                padding-top: 35px;
+            }
+     .songInfo{
+        padding: 86px;
+        margin-bottom: 26px;
+     }
+  }
+  
+  @media screen and (min-width: 800px) {
+    .bottom{
+      background-color: lavender;
+    }
+ 
+  }

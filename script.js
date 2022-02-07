@@ -16,7 +16,7 @@ let songs = [
     {songName: "Billian", filePath: "songs/4.mp3", coverPath: "7.jpg"},
     {songName: "Hamdard", filePath: "songs/5.mp3", coverPath: "6.jpg"},
     {songName: "HuaHainAaj", filePath: "songs/2.mp3", coverPath: "5.jpg"},
-    {songName: "IshareTereKarti", filePath: "songs/2.mp3", coverPath: "4.jpg"},
+    {songName: "IshareTere", filePath: "songs/2.mp3", coverPath: "4.jpg"},
     {songName: "JAANITERA", filePath: "songs/2.mp3", coverPath: "3.jpg"},
     {songName: "JayJaykara", filePath: "songs/2.mp3", coverPath: "2.jpg"},
     {songName: "Lehanga", filePath: "songs/4.mp3", coverPath: "1.jpg"},
